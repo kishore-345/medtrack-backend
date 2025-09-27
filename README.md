@@ -112,7 +112,8 @@ mvn spring-boot:run
 
 - All tests passing  
 - Swagger UI operational  
-- Backend ready for integration and deployment  
+- Backend ready for integration and deployment
+  
 
 ---
 
@@ -121,3 +122,4 @@ mvn spring-boot:run
 Kishore  
 Full Stack Java Developer  
 Focused on clean architecture, robust validation, and production-grade API design.
+
